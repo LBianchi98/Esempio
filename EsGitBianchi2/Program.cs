@@ -12,6 +12,7 @@ namespace EsGit
         {
 
             //commento
+            int ri = 0;
             Random r = new Random();
             int[] v = new int[10];
             for (int i = 0; i < 10; i++)
